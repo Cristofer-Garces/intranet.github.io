@@ -1,3 +1,3 @@
 <?php
-wena mi pana
+WENA MI REY
 ?>
